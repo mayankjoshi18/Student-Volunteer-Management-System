@@ -1,0 +1,6 @@
+{
+  "name": "Student Volunteer Management System",
+  "description": "A comprehensive platform connecting students, coordinators, and administrators with volunteering opportunities, event registration, tracking, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
