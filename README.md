@@ -1,4 +1,4 @@
-# Apex State Student Volunteer Management System (VolaLink)
+# Student Volunteer Management System (VolaLink)
 
 A comprehensive, full-stack platform designed to bridge the gap between students seeking to log social impacts and university coordinators organizing community events. VolaLink centralizes event registration, attendance tracking, hour logging, and certificate generation into a single, seamless digital registry.
 
